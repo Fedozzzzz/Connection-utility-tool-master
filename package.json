@@ -24,7 +24,7 @@
     "bootstrap": "^4.0.0-beta",
     "cross-env": "^1.0.8",
     "expect": "^1.20.1",
-    "jquery": "^3.2.1",
+    "jquery": "^3.5.0",
     "multicast-dns": "github:alexey-martynov/multicast-dns#multihomed-multicast",
     "node-autodetect-utf8-cp1251-cp866": "^0.1.0",
     "node-libs-browser": "^2.0.0",
