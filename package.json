@@ -28,7 +28,7 @@
     "multicast-dns": "github:alexey-martynov/multicast-dns#multihomed-multicast",
     "node-autodetect-utf8-cp1251-cp866": "^0.1.0",
     "node-libs-browser": "^2.0.0",
-    "node-sass": "^4.7.2",
+    "node-sass": "^7.0.0",
     "react": "^15.6.2",
     "react-addons-test-utils": "^15.1.0",
     "react-bootstrap": "^0.32.4",
